@@ -40,7 +40,9 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "lint": "expo lint"
+    "lint": "expo lint",
+    "build:web": "npx expo export -p web"
   },
+  "homepage": "https://ВАШ_НИК.github.io/ИМЯ_РЕПОЗИТОРИЯ",
   "private": true
 }
